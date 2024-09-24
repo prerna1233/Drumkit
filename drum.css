@@ -1,0 +1,52 @@
+body{
+   background-color: pink; 
+}
+
+.code{
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.img1{
+    background-image:url(image1.png);
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    padding-bottom: 50px;
+}
+.img2{
+    background-image:url(image2.png);
+    height: 200px;
+    background-size: cover;
+    width: 200px;
+    padding-bottom: 50px;
+}
+.img3{
+    background-image:url(image3.png);
+    height: 200px;
+    background-size: cover;
+    width: 200px;
+    padding-bottom: 50px;
+}
+.img4{
+    background-image:url(image4.png);
+    height: 200px;
+    background-size: cover;
+    width: 200px;
+    padding-bottom: 50px;
+}
+.img5{
+    background-image:url(image5.png);
+    height: 200px;
+    background-size: cover;
+    width: 200px;
+    padding-bottom: 50px;
+}
+.img6{
+    background-image:url(image6.png);
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    padding-bottom: 50px;
+}
